@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>username does not exist</description>
+   <name>Verify Login Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9d1d2c5a-f809-4567-bd12-7ac3bb4e7fa8</testCaseGuid>
+</TestCaseEntity>
