@@ -1,5 +1,3 @@
-Sure, here's a ready-to-copy `README.md` file for your GitHub repository:
-
 ```markdown
 # Saucedemo Web Automation Project
 
